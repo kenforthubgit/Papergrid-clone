@@ -1,0 +1,17 @@
+#free{
+    background-color: black;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#nav-bar{
+    background-color: black;
+    height: 95px;
+}
+#paper-nav-bar{
+    padding-left: 150px;
+}
+#first-row{
+    display: flex;
+}
